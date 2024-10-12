@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "ff67",
+      "cityName": "Sabinanigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-08T12:04:41.681Z",
+      "notes": "",
+      "position": {
+        "lat": "42.651083597311555",
+        "lng": "-0.41530679111037705"
+      }
+    }
+  ]
+}
